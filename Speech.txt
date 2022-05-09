@@ -1,0 +1,10 @@
+Hello everyone, I’m ........ Today I will discuss how we constructed a four-function calculator to evaluate infix and postfix expressions. 
+Our main objective is to develop a simple calculator using C++. We made a calculator with four functions in this project. These four-function are- addition, subtraction, multiplication, and division.  We will talk about not only these four-function but also after several hours of research and development, we have included Five new features in our project. These are Sin(x), cos(x), tan(x), Root and Square.
+We all know about the precedence of operators: division and multiplication have the same priority and have higher priority than addition and subtraction, also we know that addition and subtraction have the same priority. A simple calculator performs most of the calculations wrong. For example, 1+2*3 should be equal to 7 according to the normal calculator, but the problem is the simple calculator gives a result of 9. The reason a simple calculator does it all wrong is that it just multiplies the two operands, with the operator between them, and produces the result. For this wrong result, we just cannot blame the simple calculator. After all, it was meant to be simple.
+So, our main goal is to rearrange the operators, so as to get the correct result. For that, we need to 
+know about two more concepts in computer science: Infix expression and Postfix expression. The 
+arithmetic expression that we understand is the Infix expression and the arithmetic expression that 
+the computer understands is the Postfix expression. By using the algorithm of Infix to Postfix we 
+will give the correct output for any mathematical expression
+The rest of the part will discuss my groupmate, ................. 
+Thank You all.
